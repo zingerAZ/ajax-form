@@ -1,4 +1,4 @@
-# ajax-form-js part
+# ajax-form  js-part
 (function($){
 
 		/* ---------------------------------------------- */
