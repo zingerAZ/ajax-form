@@ -43,7 +43,7 @@
 							encode      : true,
 							success		: function(res){
 											var ret = $.parseJSON(JSON.stringify(res));
-											response.html(ret.message).fadeIn(500);
+											response.html(ret.message).fadeIn(1000);
 							}
 						});
 				}           
